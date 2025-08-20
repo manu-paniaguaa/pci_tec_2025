@@ -1,10 +1,8 @@
-# import math 
-# a = input("ingresa la altura: ")
-# astring = float(a)
-# b = input("ingresa la base: ")
-# bstring = float(b)
-# area_triangulo = ((bstring*astring)/2)
-# print(area_triangulo)
+import math 
+a = float(input("ingresa la altura: "))
+b = float(input("ingresa la base: "))
+area_triangulo = ((b*a)/2)
+print(area_triangulo)
 
 #----------Actividad 3---------------
 exit = "SI"
